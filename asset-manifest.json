@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/extra-tech-react-lesson/static/css/main.31ca5200.chunk.css",
+    "main.js": "/extra-tech-react-lesson/static/js/main.a8dfaec2.chunk.js",
+    "main.js.map": "/extra-tech-react-lesson/static/js/main.a8dfaec2.chunk.js.map",
+    "runtime-main.js": "/extra-tech-react-lesson/static/js/runtime-main.8033c3fb.js",
+    "runtime-main.js.map": "/extra-tech-react-lesson/static/js/runtime-main.8033c3fb.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/extra-tech-react-lesson/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.9f34d952.chunk.js": "/extra-tech-react-lesson/static/js/2.9f34d952.chunk.js",
+    "static/js/2.9f34d952.chunk.js.map": "/extra-tech-react-lesson/static/js/2.9f34d952.chunk.js.map",
+    "index.html": "/extra-tech-react-lesson/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/extra-tech-react-lesson/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.31ca5200.chunk.css.map": "/extra-tech-react-lesson/static/css/main.31ca5200.chunk.css.map",
+    "static/js/2.9f34d952.chunk.js.LICENSE.txt": "/extra-tech-react-lesson/static/js/2.9f34d952.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8033c3fb.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.9f34d952.chunk.js",
+    "static/css/main.31ca5200.chunk.css",
+    "static/js/main.a8dfaec2.chunk.js"
+  ]
+}
